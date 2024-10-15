@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+}
+
+/* Header */
+.header{
+    height: 60px;
+    background-color: #177078;
+    border-bottom: 5px solid #15acb1;
+}
+
+/* Welcome */
+.welcome{
+    height: 500px;
+    background-color: #073c45;
+}
+.text-welcome{
+    width: 50%;
+}
+.video{
+    width: 50%;
+}
+.image-welcome{
+    width: 75%;
+    border-radius: 40px;
+    border: 10px solid #d0fefc;
+}
