@@ -21,12 +21,31 @@
 .welcome{
     height: 500px;
     background-color: #073c45;
+    display: flex;
+    padding: 70px;
 }
-.text-welcome{
+.text{
     width: 50%;
+}
+.titre-welcome{
+    color: #d2fffe;
+    font-size: 50px;
+    font-weight: bold;
+    width: 70%;
+}
+.texte-welcome{
+    width: 70%;
+    color: #d2fffe;
+}
+.button-welcome{
+    padding: 10px;
+    background-color: #cdffff;
+    color: #307476;
 }
 .video{
-    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .image-welcome{
     width: 75%;
